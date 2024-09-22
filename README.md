@@ -2,7 +2,7 @@
 
 **Curupira IA** é uma solução de inteligência artificial desenvolvida para detectar focos de incêndio em florestas e industriais utilizando técnicas de processamento de imagens e aprendizado de máquina. Nosso objetivo é ajudar  principalmennte na prevenção e combate aos incêndios florestais com nossa tecnologia, oferecendo uma solução acessível e eficiente para o setor do agronegócio, áreas de conservação ambiental e industriais.
 
-![image1](https://github.com/CurupiraIA/CurupiraAI/tree/main/images/imagem2.jpeg)
+![image1](https://github.com/CurupiraIA/CurupiraAI/raw/main/images/imagem2.jpeg)
 
 **Como fazemos isso?**
 
