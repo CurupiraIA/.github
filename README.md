@@ -35,9 +35,6 @@ A **Curupira IA** pode ser aplicada em diversas áreas, incluindo:
 
 ## Equipe
 
-- [Matheus](https://github.com/MatheusPerozini) – Engenheiro de Software e..
-- [Junior](https://github.com/Juniorbasck) – Engenheiro de Software e...
+- [Matheus](https://github.com/MatheusPerozini) – Engenheiro de Software e bacharel em sistemas de informação
+- [Junior](https://github.com/Juniorbasck) – Engenheiro de Software e bacharel em sistemas de informação
 
-## Como Contribuir?
-
-Sinta-se à vontade para enviar pull requests, abrir issues ou sugerir melhorias. Para mais informações, consulte o [Awesome README](https://github.com/matiassingers/awesome-readme).
